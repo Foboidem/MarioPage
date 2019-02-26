@@ -19,8 +19,41 @@ body{
      
 }
 
+nav{
+     border: 10px double navy;
+}
+
 nav ul{
-    
+    padding: 0px;
+    margin-left: 25%;
+
+}
+
+.sectionHeader{
+    font-size: 20px;
+    color: blueviolet;
+    text-shadow: 2px 4px 2px blue;
+}
+
+.articleHeader{
+    font-size: 18px;
+    color: aqua;
+    text-decoration: underline black;
+}
+
+video{
+    width: 100%;
+    height: auto;
+}
+
+.content{
+    display: inline-block;
+    width: 70%;
+    vertical-align: top;
+}
+aside{
+    display: inline-block;
+    vertical-align: top;
 }
 
 
